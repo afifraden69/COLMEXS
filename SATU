@@ -220,15 +220,15 @@ def menu():
 		os.system("mkdir results")
 		os.system("echo 'Jangan DiEdit Nanti Rusak..' >> results/hai.txt")
 	logo()
-        print(" "+p+"[*] ---------------------------------------------")
+        print(" "+p+"[*] ---------------------------------------")
 	print(" "+p+"[*] Nama : "+k+k+"%s"%(nama))
 	print(" "+p+"[*] ID   : "+k+id)
 	print(" "+p+"[*] User : "+k+user)
-        print(" "+p+"[*] ---------------------------------------------")
+        print(" "+p+"[*] ---------------------------------------")
         print(" "+p+"[*] IP    : "+H+ip)
         print(" "+p+"[*] Joined: "+H+durasi)
 	print(" "+p+"[*] Status: "+H+"GRATIS")
-	print(" "+p+"[*] ---------------------------------------------")
+	print(" "+p+"[*] ---------------------------------------")
 	print
 	print("      [  Welcome User ]")
 	print
