@@ -100,7 +100,7 @@ def logo():
 	print("""            
  WECOME TO RATU ERROR
  Gunakanlah script secara baik dan benar
- WHATSAPP OWNER : 082343887453
+ WHATSAPP OWNER : 0805341157823
  LINK GROUP : https://web.facebook.com/groups/271952186154338""")
 def bot_komen():
     try:
@@ -222,7 +222,7 @@ def menu():
         print(" "+p+"[*] ---------------------------------------------")
         print(" "+p+"[*] IP    : "+H+ip)
         print(" "+p+"[*] Joined: "+H+durasi)
-	print(" "+p+"[*] Status: "+H+"Premium")
+	print(" "+p+"[*] Status: "+H+"GRATIS")
 	print(" "+p+"[*] ---------------------------------------------")
 	print
 	print("      [  Welcome User ]")
